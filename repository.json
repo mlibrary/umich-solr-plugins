@@ -1,0 +1,40 @@
+[
+  {
+    "name": "solr_analyzed_string",
+    "description": "some plugins from Bill",
+    "versions": [
+      {
+        "versions": "1.0",
+        "date": "2022-11-15",
+        "artifacts": [
+          {
+            "url": "solr_analyzed_string-1.0.jar",
+            "sig": "H/kzZJAH+HRtqA4oZw+VcPIcgfOIsNfhng8D4n75xIfV9QOCE5MifqqXVGPEmKKA5OxIGSYYoYU7t9KwgxYwzw=="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "8 - 9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "library_identifier_solr_filters",
+    "description": "Some other plugins from Bill",
+    "versions": [
+      {
+        "versions": "0.9.5",
+        "date": "2022-11-15",
+        "artifacts": [
+          {
+            "url": "library_identifier_solr_filters-0.9.5-solr8.8.2.jar",
+            "sig": "HRh6C3TEQf+cUcr4xV3uBhRKBU7DLn/5DJZ++cPsq5jYJTJHyNiParIzzGdOHpfVcg57Eb/wD5QdA+7GGgPGew=="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "8 - 9"
+        }
+      }
+    ]
+  }
+]
