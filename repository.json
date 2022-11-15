@@ -8,7 +8,7 @@
         "date": "2022-11-15",
         "artifacts": [
           {
-            "url": "solr_analyzed_string-1.0.jar",
+            "url": "solr_analyzed_string/solr_analyzed_string-1.0.jar",
             "sig": "H/kzZJAH+HRtqA4oZw+VcPIcgfOIsNfhng8D4n75xIfV9QOCE5MifqqXVGPEmKKA5OxIGSYYoYU7t9KwgxYwzw=="
           }
         ],
@@ -27,7 +27,7 @@
         "date": "2022-11-15",
         "artifacts": [
           {
-            "url": "library_identifier_solr_filters-0.9.5-solr8.8.2.jar",
+            "url": "library_identifier_solr_filters/library_identifier_solr_filters-0.9.5-solr8.8.2.jar",
             "sig": "HRh6C3TEQf+cUcr4xV3uBhRKBU7DLn/5DJZ++cPsq5jYJTJHyNiParIzzGdOHpfVcg57Eb/wD5QdA+7GGgPGew=="
           }
         ],
