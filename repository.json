@@ -1,6 +1,6 @@
 [
   {
-    "name": "solr_analyzed_string",
+    "name": "umich_solr_analyzed_string",
     "description": "some plugins from Bill",
     "versions": [
       {
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "name": "library_identifier_solr_filters",
+    "name": "umich_library_identifier_solr_filters",
     "description": "Some other plugins from Bill",
     "versions": [
       {
