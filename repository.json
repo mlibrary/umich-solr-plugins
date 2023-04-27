@@ -34,6 +34,19 @@
         "manifest": {
           "version-constraint": "8 - 9"
         }
+      },
+      {
+        "version": "0.9.6",
+        "date": "2022-12-02",
+        "artifacts": [
+          {
+            "url": "library_identifier_solr_filters/library_identifier_solr_filters-0.9.6-solr8.8.2.jar",
+            "sig": ""
+          }
+        ],
+        "manifest": {
+          "version-constraint": "8 - 9"
+        }
       }
     ]
   }
